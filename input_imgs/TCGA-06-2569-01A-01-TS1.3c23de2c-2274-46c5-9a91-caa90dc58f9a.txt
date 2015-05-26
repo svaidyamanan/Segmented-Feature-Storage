@@ -1,0 +1,12 @@
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.000000.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.000000.012288.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.004096.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.004096.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.004096.012288.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.008192.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.008192.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.008192.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.svs/output/TCGA-06-2569-01A-01-TS1.3c23de2c-2274-46c5-9a91-caa90dc58f9a.seg.008192.012288.txt

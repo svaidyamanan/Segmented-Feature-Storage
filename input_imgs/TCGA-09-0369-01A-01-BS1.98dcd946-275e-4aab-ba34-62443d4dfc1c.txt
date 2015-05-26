@@ -1,0 +1,12 @@
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.000000.008192.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.004096.004096.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.004096.008192.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.008192.000000.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.008192.004096.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.008192.008192.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.012288.000000.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.012288.004096.txt
+/data/shared/tcga_analysis/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.svs/output/TCGA-09-0369-01A-01-BS1.98dcd946-275e-4aab-ba34-62443d4dfc1c.seg.012288.008192.txt

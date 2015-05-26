@@ -1,0 +1,6 @@
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.004096.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.008192.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.svs/output/TCGA-A8-A0A7-01A-01-BS1.4a4d1511-7d0f-4482-bd6c-7a1ebbfe2ce6.seg.008192.004096.txt

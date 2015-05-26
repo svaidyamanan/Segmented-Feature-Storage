@@ -1,0 +1,12 @@
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.000000.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.000000.012288.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.004096.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.004096.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.004096.012288.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.008192.000000.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.008192.004096.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.008192.008192.txt
+/data/shared/tcga_analysis/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.svs/output/TCGA-06-2562-01A-01-TS1.afe0e7e5-eb0e-40f6-815b-9fb5ed9de832.seg.008192.012288.txt

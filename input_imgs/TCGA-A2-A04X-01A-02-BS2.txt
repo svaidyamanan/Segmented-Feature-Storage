@@ -1,0 +1,4 @@
+/data/shared/tcga_analysis/TCGA-A2-A04X-01A-02-BS2.svs/output/TCGA-A2-A04X-01A-02-BS2.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-A2-A04X-01A-02-BS2.svs/output/TCGA-A2-A04X-01A-02-BS2.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-A2-A04X-01A-02-BS2.svs/output/TCGA-A2-A04X-01A-02-BS2.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-A2-A04X-01A-02-BS2.svs/output/TCGA-A2-A04X-01A-02-BS2.seg.004096.004096.txt

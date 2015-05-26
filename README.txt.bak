@@ -1,0 +1,20 @@
+README
+
+This file contains the list of code files and what their prime functionality is.
+
+input_imgs/				One text file for each iamge containing location of their tiles.
+metadata/				Contains metadata regarding location, min X, min Y, max X and max Y for eachh tile for ADIOS, HDT and SQLite
+output/					Query results from nfs004, nfs005 and nfs006 are copied over to this location
+adios_api.py			Contains API for file creation and query for ADIOS
+sqlite_api.py			Contains API for file creation and query for SQLite
+batch_create.sh			For every image, calls 'mpi_convert' to convert the tiles in the image to ADIOS/HDT/SQLite and distribtues them to nfs004, nfs005 and nfs006
+batch_query.sh			Takes in the metadata from metadata/log_*.txt, triggers query script on nfs004, nfs005 and nfs006
+clean_up.sh				Deletes the files created by batch_create.sh
+config_features.txt		File used by ADIOS to read / write data
+hdt_convert.java		API sued to convert TSV file to HDT
+hdt_query.java			API to query HDT files
+img_list.sh				Creates one file with location to all the tiles for each image
+mpi_convert.py			MPI program which takes in file with all tile location and converts them to SQLite / HDT / ADIOS
+mpi_query_nfs004		MPI program which takes in file with all tiles stored in nfs004 and converts them to SQLite / HDT / ADIOS
+mpi_query_nfs005		MPI program which takes in file with all tiles stored in nfs005 and converts them to SQLite / HDT / ADIOS
+mpi_query_nfs006		MPI program which takes in file with all tiles stored in nfs006 and converts them to SQLite / HDT / ADIOS

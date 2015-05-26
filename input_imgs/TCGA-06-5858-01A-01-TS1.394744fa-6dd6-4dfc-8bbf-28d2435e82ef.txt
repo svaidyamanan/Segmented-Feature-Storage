@@ -1,0 +1,2 @@
+/data/shared/tcga_analysis/TCGA-06-5858-01A-01-TS1.394744fa-6dd6-4dfc-8bbf-28d2435e82ef.svs/output/TCGA-06-5858-01A-01-TS1.394744fa-6dd6-4dfc-8bbf-28d2435e82ef.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-06-5858-01A-01-TS1.394744fa-6dd6-4dfc-8bbf-28d2435e82ef.svs/output/TCGA-06-5858-01A-01-TS1.394744fa-6dd6-4dfc-8bbf-28d2435e82ef.seg.004096.000000.txt

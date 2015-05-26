@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<adios-config host-language="C">
+<adios-group name="feature_list">
+	<var name="row_count" type="integer" />
+	<var name="boundary_length" type="integer" />
+	<var name="case_length" type="integer" />
+	<var name="Slide" type="byte" dimensions="row_count, case_length" />
+	<var name="X" type="double" dimensions="row_count" />
+	<var name="Y" type="double" dimensions="row_count" />
+	<var name="Area" type="double" dimensions="row_count" />
+	<var name="Perimeter" type="double" dimensions="row_count" />
+	<var name="Eccentricity" type="double" dimensions="row_count" />
+	<var name="Circularity" type="double" dimensions="row_count" />
+	<var name="MajorAxisLength" type="double" dimensions="row_count" />
+	<var name="MinorAxisLength" type="double" dimensions="row_count" />
+	<var name="Extent" type="double" dimensions="row_count" />
+	<var name="Solidity" type="double" dimensions="row_count" />
+	<var name="FSD1" type="double" dimensions="row_count" />
+	<var name="FSD2" type="double" dimensions="row_count" />
+	<var name="FSD3" type="double" dimensions="row_count" />
+	<var name="FSD4" type="double" dimensions="row_count" />
+	<var name="FSD5" type="double" dimensions="row_count" />
+	<var name="FSD6" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMeanIntensity" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMeanMedianDifferenceIntensity" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMaxIntensity" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMinIntensity" type="double" dimensions="row_count" />
+	<var name="HematoxlyinStdIntensity" type="double" dimensions="row_count" />
+	<var name="HematoxlyinEntropy" type="double" dimensions="row_count" />
+	<var name="HematoxlyinEnergy" type="double" dimensions="row_count" />
+	<var name="HematoxlyinSkewness" type="double" dimensions="row_count" />
+	<var name="HematoxlyinKurtosis" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMeanGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinStdGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinEntropyGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinEnergyGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinSkewnessGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinKurtosisGradMag" type="double" dimensions="row_count" />
+	<var name="HematoxlyinSumCanny" type="double" dimensions="row_count" />
+	<var name="HematoxlyinMeanCanny" type="double" dimensions="row_count" />
+	<var name="CytoplasmMeanIntensity" type="double" dimensions="row_count" />
+	<var name="CytoplasmMeanMedianDifferenceIntensity" type="double" dimensions="row_count" />
+	<var name="CytoplasmMaxIntensity" type="double" dimensions="row_count" />
+	<var name="CytoplasmMinIntensity" type="double" dimensions="row_count" />
+	<var name="CytoplasmStdIntensity" type="double" dimensions="row_count" />
+	<var name="CytoplasmEntropy" type="double" dimensions="row_count" />
+	<var name="CytoplasmEnergy" type="double" dimensions="row_count" />
+	<var name="CytoplasmSkewness" type="double" dimensions="row_count" />
+	<var name="CytoplasmKurtosis" type="double" dimensions="row_count" />
+	<var name="CytoplasmMeanGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmStdGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmEntropyGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmEnergyGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmSkewnessGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmKurtosisGradMag" type="double" dimensions="row_count" />
+	<var name="CytoplasmSumCanny" type="double" dimensions="row_count" />
+	<var name="CytoplasmMeanCanny" type="double" dimensions="row_count" />
+	<var name="Boundaries" type="byte" dimensions="row_count, boundary_length" />
+</adios-group>
+<method group ="feature_list" method ="POSIX1" />
+<buffer size-MB="2" allocate-time="now" />
+
+</adios-config>

@@ -1,0 +1,12 @@
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.000000.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.000000.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.004096.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.004096.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.008192.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.008192.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.012288.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.012288.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.016384.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.016384.004096.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.020480.000000.txt
+/data/shared/tcga_analysis/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.svs/output/TCGA-A8-A09G-01A-02-BS2.e110bb6c-7c19-4ace-9507-14ef5714a74d.seg.020480.004096.txt
